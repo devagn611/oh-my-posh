@@ -39,7 +39,7 @@ on oh-my-posh, a modern and more efficient tool was needed to suit my personal n
 
 [![GitHub][github-badge]][github-sponsors] - One time support, or a recurring donation?
 
-[![Ko-Fi][kofi-badge]][kofi] - No coffee, no code.
+[![Ko-Fi][kofi-badge]][kofi] - No coffee, no code😀.
 
 <!-- markdownlint-disable -->
 <a href="https://polar.sh/oh-my-posh">
